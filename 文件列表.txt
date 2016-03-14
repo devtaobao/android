@@ -1,0 +1,23 @@
+一键GHOST v2016.02.16 优盘版 文件列表
+
+   安装前,压缩包里应该至少有以下文件:
+   1_说明文档.txt
+   2_引导设置.exe
+   3_安装程序.exe
+   HELP.chm
+   readme.txt
+   文件列表.txt  (本文件)
+
+   安装后,USB磁盘第1分区应该至少有以下文件:
+   GYLDR
+   1KG\bootice.exe  (等同于"2_引导设置.exe")
+   1KG\ghost.img
+   1KG\menu.lst
+   1KG\HELP.chm
+   1KG\袖珍龙汉字系统补丁.exe
+
+
+DOS之家
+
+官网：http://doshome.com/yj
+论坛：http://doshome.net/bbs
